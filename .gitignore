@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Ignore the generated output data, but keep the raw data
+data/nasa_cleaned.csv
